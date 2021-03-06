@@ -1,5 +1,5 @@
-# Steganography project, assigned by:
-# Lilach Naor, Sapir Turgeman (Shemesh)
+# assigned by:
+# Sapir Turgeman (Shemesh) and Lilach Naor.
 
 # please install the following modules:
 # pip install cv2, numpy, pillow
