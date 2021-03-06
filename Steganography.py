@@ -1,7 +1,5 @@
 # Steganography project, assigned by:
-# Lilach Naor - id: 313588352, Sapir Shemesh - id: 311342794
-# Course lecturer - Yakir Menahem
-# Summer 2020
+# Lilach Naor, Sapir Turgeman (Shemesh)
 
 # please install the following modules:
 # pip install cv2, numpy, pillow
